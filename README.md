@@ -1,7 +1,8 @@
 # PhoneGap-Test
 
-Test Bàsic de PhoneGap
-29/11/2015
+Primer aplicatiu
+Aquest grup està format per Jonathan Morató, Ivan Santander i Pablo Chen
+02/12/2015
 
 
 Informàtica 4t ESO 2015 2016
